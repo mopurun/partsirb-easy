@@ -17,6 +17,7 @@
   * セラミックコンデンサ
   * 電解コンデンサ（アルミ、タンタル）
   * フィルムコンデンサ
+    [img1](img1.jpg)
 * コイル・インダクタ（Inductor）
 
   * トロイダルコイル
@@ -48,6 +49,8 @@
   * EEPROM、フラッシュメモリ
   * FPGA、CPLD
   * マイコン（例：PIC, AVR, STM32, CH32V, ESP32, RP2040）
+ 
+    [img2](img2.jpg)
 
 ### ● 電源関連部品（Power Components）
 
@@ -56,6 +59,7 @@
 * スイッチング電源モジュール
 * リチウムイオン電池
 * スーパーキャパシタ
+      [img3](img3.jpg)
 
 ### ● センサ（Sensor Components）
 
