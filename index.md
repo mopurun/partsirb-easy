@@ -53,6 +53,8 @@
  
     ![img2](img2.jpg)
 
+  ↑PICマイコンの例
+
 ### ● 電源関連部品（Power Components）
 
 * 電源IC（DC/DC, LDO）
