@@ -38,6 +38,10 @@
   * ショットキーダイオード
   * ツェナーダイオード
   * 発光ダイオード（LED）
+
+    ![img5](img5.jpg)
+ 
+  
 * トランジスタ（Transistor）
 
   * バイポーラトランジスタ（NPN/PNP）
@@ -95,6 +99,9 @@
 ### ● 表示部品（Display Components）
 
 * 7セグメントLED
+  
+    ![img4](img4.jpg)
+
 * キャラクタ液晶（HD44780系）
 * OLEDディスプレイ（I2C/SPI）
 * TFT液晶ディスプレイ
