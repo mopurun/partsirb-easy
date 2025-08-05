@@ -54,6 +54,15 @@
 
     ![img5](img5.jpg)
  
+    ↑チップLED
+
+     ![img5](img10.jpg)
+ 
+    ↑角型LED
+
+    ![img5](img11.jpg)
+
+    ↑LEDの拡大
   
 * トランジスタ（Transistor）
 
