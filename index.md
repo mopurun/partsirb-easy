@@ -58,6 +58,9 @@
 * トランジスタ（Transistor）
 
   * バイポーラトランジスタ（NPN/PNP）
+  
+  ![img3](img9.jpg)
+    
   * MOSFET（Nチャネル/Pチャネル）
   * IGBT
 * 集積回路（IC）
