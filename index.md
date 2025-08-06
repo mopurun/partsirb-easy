@@ -91,7 +91,8 @@
 
 * 電源IC（DC/DC, LDO）
 
-      ![DCDC](img13.jpg)
+  ![DCDC](img13.jpg)
+  
 * ACアダプタ
 * スイッチング電源モジュール
 * リチウムイオン電池
