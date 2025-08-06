@@ -90,6 +90,8 @@
 ### ● 電源関連部品（Power Components）
 
 * 電源IC（DC/DC, LDO）
+
+      ![DCDC](img13.jpg)
 * ACアダプタ
 * スイッチング電源モジュール
 * リチウムイオン電池
