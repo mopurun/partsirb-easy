@@ -97,6 +97,9 @@
 * 集積回路（IC）
 
   * オペアンプ（例：LM358）
+
+    ![img2](img22.jpg)
+
   * タイマーIC（例：NE555）
   * 電圧レギュレータ（例：7805, AMS1117）
   * ロジックIC（74HCシリーズ, 4000シリーズ）
@@ -174,3 +177,5 @@
 
 
 # [HOME](https://mopurun.github.io/)
+
+[管理用](https://github.com/mopurun/partsirb-easy)
