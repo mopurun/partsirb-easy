@@ -1,6 +1,6 @@
 ---
 title: 電子部品図鑑になるかもしれないページ
-image: /img10.jpg
+image: ./img10.jpg
 ---
 
 作成中
