@@ -66,6 +66,9 @@
   * 整流ダイオード
   * ショットキーダイオード
   * ツェナーダイオード
+ 
+      ![img4](img25.jpg)
+    
   * 発光ダイオード（LED）
 
     ![img5](img5.jpg)
@@ -79,6 +82,10 @@
     ![img5](img11.jpg)
 
     ↑LEDの拡大
+
+    * ブリッジダイオード
+   
+        ![img4](img26.jpg)
   
 * トランジスタ（Transistor）
 
@@ -93,6 +100,9 @@
   ↑チップトランジスタ
     
   * MOSFET（Nチャネル/Pチャネル）
+ 
+      ![img4](img24.jpg)
+    
   * IGBT
 * 集積回路（IC）
 
@@ -174,6 +184,17 @@
 * OLEDディスプレイ（I2C/SPI）
 * TFT液晶ディスプレイ
 * e-Paperディスプレイ
+
+  ### ● 熱制御・熱電変換部品（Thermal / Thermoelectric Components）
+- ペルチェ素子（Peltier Device）
+
+    ![img4](img23.jpg)
+- 
+- サーミスタ（NTC/PTC）
+- バイメタルサーモスタット
+- ヒートシンク
+- TECコントローラ（ペルチェ駆動用IC）
+
 
 
 # [HOME](https://mopurun.github.io/)
